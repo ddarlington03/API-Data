@@ -11,6 +11,7 @@
 		DE7A596825E8054A00DC7FBC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A596725E8054A00DC7FBC /* ContentView.swift */; };
 		DE7A596A25E8054F00DC7FBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A596925E8054F00DC7FBC /* Assets.xcassets */; };
 		DE7A596D25E8054F00DC7FBC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE7A596C25E8054F00DC7FBC /* Preview Assets.xcassets */; };
+		DE7A597625E8081A00DC7FBC /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7A597525E8081A00DC7FBC /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DE7A596925E8054F00DC7FBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE7A596C25E8054F00DC7FBC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE7A596E25E8054F00DC7FBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE7A597525E8081A00DC7FBC /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				DE7A596725E8054A00DC7FBC /* ContentView.swift */,
 				DE7A596925E8054F00DC7FBC /* Assets.xcassets */,
 				DE7A596E25E8054F00DC7FBC /* Info.plist */,
+				DE7A597525E8081A00DC7FBC /* SwiftyJSON.swift */,
 				DE7A596B25E8054F00DC7FBC /* Preview Content */,
 			);
 			path = "API Data";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE7A597625E8081A00DC7FBC /* SwiftyJSON.swift in Sources */,
 				DE7A596825E8054A00DC7FBC /* ContentView.swift in Sources */,
 				DE7A596625E8054A00DC7FBC /* API_DataApp.swift in Sources */,
 			);
